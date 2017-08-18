@@ -12,7 +12,7 @@ public class PalindromeTest extends TestCase {
 	    
 	    public void testApp1()
 	    {
-	        assertFalse(Palindrome.isPalindrome("MAAMNN India "));
+	        assertFalse(Palindrome.isPalindrome("MAAMN India "));
 	    }
 	    
 	    public void testException()
